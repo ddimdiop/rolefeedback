@@ -21,6 +21,7 @@ RoleFeeback demonstrates how an assessor can use Google Glass to conduct a rolep
 
 The current functionalities are highlighted below for requirements sake:
 
+- Calendar Notice through email
 - Clients List
 - Projects List
 - Participants List
